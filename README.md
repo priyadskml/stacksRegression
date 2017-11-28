@@ -1,2 +1,1 @@
-# mips2
-sublinear solution to MIPS using Assymmetric Locality Sensitive Hashing
+Applied MCMC and Variational inference for Gaussian Likelihoodbased linear regression on Stacks Data
